@@ -1,0 +1,13 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			set_global_flag = is_RD_M_enabled
+		}
+	}
+
+	on_monthly = {
+		effect = {
+
+		}
+	}
+}
