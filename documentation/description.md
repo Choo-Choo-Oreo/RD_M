@@ -1,5 +1,5 @@
 [h1]Sub-Mod: Mechanized Units[/h1]
-This sub-mod adds dedicated Mechanized content originally featured in the main collection. It has been separated to provide a more modular experience.
+This sub-mod adds dedicated Mechanized content originally featured in the main collection.
 
 [h2]Link to Main Mod[/h2]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3670114112]Return to Main Mod[/url]
