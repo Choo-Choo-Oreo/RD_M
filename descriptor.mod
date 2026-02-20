@@ -6,6 +6,7 @@ tags={
 	"Technologies"
 }
 name="Reworked Designer: Mechanized"
+picture="thumbnail.png"
 dependencies={
 	"Reworked Designer: Tanks"
 }
